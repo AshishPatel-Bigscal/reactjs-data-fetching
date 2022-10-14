@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgray;
+}
+.postContainer{
+  margin: 10px 20px;
+  padding: 20px 10px;
+  background-color: palevioletred;
+  color: white;
+  border: 2px solid black;
+  max-width: 800px;
+  width: 100%;
+}
+.postUserName{
+  margin-bottom: 5px;
+}
+.postPhone{
+  margin-bottom: 30px;
+}
+.postContent{
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+.postOption{
+  margin: 5px;
+}
+.postDeleteBtn{
+  max-width: 70px;
+  width: 100%;
+  color: red;
+  font-weight: bolder;
+}
+.postHideBtn{
+  max-width: 70px;
+  width: 100%;
+  color: greenyellow;
+}
+.btn{
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(32,32,32);
+  cursor: pointer;
+}

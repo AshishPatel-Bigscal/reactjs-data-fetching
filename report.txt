@@ -1,0 +1,50 @@
+(04:16:07 PM IST) Ashish Manani:
+PixelPerfect
+--------------------------------------------
+1850px
+===========================
+1. https://prnt.sc/yGuAJVsYP5NZ
+2. https://prnt.sc/NQ5THuuSf4vZ
+3. https://prnt.sc/At-8rotXpJi2
+
+1440px
+=============================
+1. https://prnt.sc/8v9MLJUAzzy_
+
+1024px
+=============================
+1. https://prnt.sc/dxidTnqJKCn0
+2. https://prnt.sc/_34YAqXqQYoo
+
+
+768px
+===========================
+1. https://prnt.sc/k9E1WGj3j_09
+2. https://prnt.sc/UMMRN5fzh8yA
+
+
+responsive
+====================================================
+1. Header not responsive https://prnt.sc/YG7f-lHgjXJL
+3. Text touched with container https://prnt.sc/bqvjwT6dCl7O
+4. button section: text touching with container https://prnt.sc/-HeTtXiZ2yPF
+5. spaceing is not there in responsive between slider image and text: https://prnt.sc/BKWBu7VE7QcT
+
+
+
+bug
+====================================================
+
+1. On page load, slider indicator is not in active state https://prnt.sc/t61zfrxb468m
+2. Slider is not auto sliding https://prnt.sc/lqYaI6PSkFd0
+
+
+
+code
+==================================================
+1. Alt tags are empty https://prnt.sc/XGTKGv8abFrQ
+2. Footer links are not in anchore tag https://prnt.sc/d-Pz4vgRHWAS
+
+js
+-------------------
+3. Loop's max iteration value should be dynamic, according to length of data object https://prnt.sc/6CKJkPCwRJI_ [ it should be data.length and not 4 ]
